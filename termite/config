@@ -1,0 +1,42 @@
+[options]
+scroll_on_output = false
+scroll_on_keystroke = true
+audible_bell = false
+mouse_autohide = false
+allow_bold = true
+dynamic_title = true
+urgent_on_bell = true
+clickable_url = true
+font = Hack 14
+scrollback_lines = 10000
+search_wrap = true
+cursor_blink = system
+cursor_shape = block
+filter_unmatched_urls = true
+geometry = 700x700
+
+[colors]
+foreground = #839496
+foreground_bold = #eee8d5
+#foreground_dim = #888888
+cursor = #93a1a1
+
+background = rgba(10, 14, 18, 0.98)
+
+ # colors from color0 to color254 can be set
+ 14 color0 = #073642
+ 15 color1 = #dc322f
+ 16 color2 = #859900
+ 17 color3 = #b58900
+ 18 color4 = #268bd2
+ 19 color5 = #d33682
+ 20 color6 = #2aa198
+ 21 color7 = #eee8d5
+ 22 color8 = #002b36
+ 23 color9 = #cb4b16
+ 24 color10 = #586e75
+ 25 color11 = #657b83
+ 26 color12 = #839496
+ 27 color13 = #6c71c4
+ 28 color14 = #93a1a1
+ 29 color15 = #fdf6e3
